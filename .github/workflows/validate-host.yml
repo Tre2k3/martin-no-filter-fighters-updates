@@ -1,0 +1,29 @@
+name: Validate public update host
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check status and protected content
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json,pathlib
+          root=pathlib.Path('.')
+          data=json.loads((root/'docs/health.json').read_text())
+          assert data['service']=='martin-no-filter-fighters-updates'
+          assert data['schema']==1
+          for p in root.rglob('*'):
+              if not p.is_file() or '.git' in p.parts: continue
+              low=p.name.lower()
+              assert not any(s in low for s in ('.p12','.pfx','private.pem','private.key','.env.local')), f'Potential secret: {p}'
+              assert p.stat().st_size < 9000000, f'Large file not permitted in git: {p}'
+          print('Public host validation passed')
+          PY
