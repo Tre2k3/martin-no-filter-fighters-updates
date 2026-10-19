@@ -1,0 +1,17 @@
+# Never commit private credentials, certificates, binaries, or staged releases
+*.p12
+*.pfx
+*.key
+*private*.pem
+.env
+.env.*
+secrets/
+private/
+node_modules/
+dist/
+release-staging/
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.blockmap
