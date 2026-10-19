@@ -1,0 +1,9 @@
+{
+  "service": "martin-no-filter-fighters-updates",
+  "schema": 1,
+  "state": "configured-awaiting-first-release",
+  "desktopFeed": "GitHub Pages",
+  "installers": "GitHub Releases",
+  "contentManifestPublished": false,
+  "updatesLive": false
+}
