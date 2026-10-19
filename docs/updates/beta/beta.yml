@@ -1,0 +1,8 @@
+version: 13.4.5
+files:
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.5/Martin.No.Filter.Fighters.Beta.Setup.13.4.5.exe
+    sha512: cIDmJDBxb7+5pQVqTolqUFVXLgU+jC3CXpG5aBPe0yVxaX7HOVR9hMhn0Ity/R5rT6zbx5xIRlqRkcvm14pGoA==
+    size: 154763613
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.5/Martin.No.Filter.Fighters.Beta.Setup.13.4.5.exe
+sha512: cIDmJDBxb7+5pQVqTolqUFVXLgU+jC3CXpG5aBPe0yVxaX7HOVR9hMhn0Ity/R5rT6zbx5xIRlqRkcvm14pGoA==
+releaseDate: '2026-10-19T11:23:11.359Z'
