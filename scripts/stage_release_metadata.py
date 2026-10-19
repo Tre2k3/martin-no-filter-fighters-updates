@@ -22,7 +22,7 @@ def main():
     ap.add_argument('--out', required=True, type=pathlib.Path)
     ap.add_argument('--channel', choices=('stable', 'beta'), default='stable')
     ns = ap.parse_args()
-    if not re.fullmatch(r'\\d+\\.\\d+\\.\\d+(?:-[A-Za-z0-9.-]+)?', ns.version):
+    if not re.fullmatch(r'\d+\.\d+\.\d+(?:-[A-Za-z0-9.-]+)?', ns.version):
         ap.error('Supply a semantic version (e.g. 13.4.5)')
     dist = ns.dist.resolve()
     if not dist.is_dir():
