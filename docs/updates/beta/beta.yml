@@ -1,13 +1,13 @@
-version: 13.4.6
+version: 13.4.7
 files:
-  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.6/Martin.No.Filter.Fighters.Beta.Setup.13.4.6.exe
-    sha512: diMY6QnwYdpbYCnxLfBJjzkMJLZrQbFuAT9oQs3CEu7GDl1RLr4/Y7Ap+I4Ff2L6Mvad1I4h51PozW54Kc74Cg==
-    size: 154765408
-path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.6/Martin.No.Filter.Fighters.Beta.Setup.13.4.6.exe
-sha512: diMY6QnwYdpbYCnxLfBJjzkMJLZrQbFuAT9oQs3CEu7GDl1RLr4/Y7Ap+I4Ff2L6Mvad1I4h51PozW54Kc74Cg==
-releaseDate: '2026-10-20T11:59:07.003Z'
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.7/Martin.No.Filter.Fighters.Beta.Setup.13.4.7.exe
+    sha512: Aj+bWX7eKEFj9mZa1BCzP2fQ98/tXUpuzLjU7Okg5bT2CYqJVIDgbFGYN5ZOBKwoi3GwIlA2heCyvcVxLxWASw==
+    size: 154766464
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.7/Martin.No.Filter.Fighters.Beta.Setup.13.4.7.exe
+sha512: Aj+bWX7eKEFj9mZa1BCzP2fQ98/tXUpuzLjU7Okg5bT2CYqJVIDgbFGYN5ZOBKwoi3GwIlA2heCyvcVxLxWASw==
+releaseDate: '2026-10-21T01:40:40.809Z'
 releaseNotes: |-
-  - Installed version and latest available version shown in Game Updates.
-  - Stable/Beta channel and last checked time displayed.
-  - Controller-accessible What's New panel and title-screen version label.
-  - Existing fighting gameplay unchanged.
+  - Automatically checks for new versions on game launch and periodically on safe menus.
+  - Dismissible update-available banner; no forced download, gameplay interruption or restart.
+  - Fixed ninth menu item text overlap and repositioned version label.
+  - Preserved installed/latest versions, Beta channel, What's New and controller navigation.
