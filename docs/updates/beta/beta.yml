@@ -1,13 +1,12 @@
-version: 13.4.8
+version: 13.4.9
 files:
-  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.8/Martin.No.Filter.Fighters.Beta.Setup.13.4.8.exe
-    sha512: ty0gOUwttIwNfgtlqyQRtCBbDZQ4wWJePflAMlXxki0MkfYSOhZKcaTzHgaiDLLRcg+jFo0yOSn/Oc5gqrRPnQ==
-    size: 154765942
-path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.8/Martin.No.Filter.Fighters.Beta.Setup.13.4.8.exe
-sha512: ty0gOUwttIwNfgtlqyQRtCBbDZQ4wWJePflAMlXxki0MkfYSOhZKcaTzHgaiDLLRcg+jFo0yOSn/Oc5gqrRPnQ==
-releaseDate: '2026-10-21T03:17:13.958Z'
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.9/Martin.No.Filter.Fighters.Beta.Setup.13.4.9.exe
+    sha512: pEsRfGz8882BZDEPfZJ3FqWzgEBsE2DZMre0satvjJ/4d8ichmVXtlPaiBT9MCBlzIJProAfyHcXIgwKcThFwA==
+    size: 154766727
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.9/Martin.No.Filter.Fighters.Beta.Setup.13.4.9.exe
+sha512: pEsRfGz8882BZDEPfZJ3FqWzgEBsE2DZMre0satvjJ/4d8ichmVXtlPaiBT9MCBlzIJProAfyHcXIgwKcThFwA==
+releaseDate: '2026-10-21T04:39:17.794Z'
 releaseNotes: |-
-  - Manual Retry download after network interruption, with friendly error messages and no forced installation.
-  - Retains verified release metadata after failed transfers and protects existing installed version.
-  - Maintains stable app settings, update UI and controller navigation.
-  - Preserved installed/latest versions, Beta channel, What's New and controller navigation.
+  - QA-only 13.4.9 target for testing interrupted-download recovery from installed Beta 13.4.8.
+  - No changes to fighter balance, stages, music, artwork or save-data formats.
+  - Previous version remains playable when an update download is interrupted.
