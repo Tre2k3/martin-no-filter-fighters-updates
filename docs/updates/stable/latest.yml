@@ -1,8 +1,8 @@
-version: 13.5.2
+version: 15.1.0
 files:
-  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v13.5.2/Martin.No.Filter.Fighters.Setup.13.5.2.exe
-    sha512: NHjYGgcycMMsYA4FGxTPuOzO/B0mwx1X9ecdR1aK5L3otPsn638sZqpeSkIUZNaqZluZTsdy66SSB/f6dsu1Vg==
-    size: 155198976
-path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v13.5.2/Martin.No.Filter.Fighters.Setup.13.5.2.exe
-sha512: NHjYGgcycMMsYA4FGxTPuOzO/B0mwx1X9ecdR1aK5L3otPsn638sZqpeSkIUZNaqZluZTsdy66SSB/f6dsu1Vg==
-releaseDate: '2026-10-21T17:17:15.141Z'
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.1.0/Martin.No.Filter.Fighters.Setup.15.1.0.exe
+    sha512: 88Iur4UzoTRrljeJZ+NAd2pk6WvhQGkqBEI70b1N7hF/FXEfTCgu7M5+Z8OU1OCQQKNfLmah3mFPIx1JWX96sA==
+    size: 231899623
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.1.0/Martin.No.Filter.Fighters.Setup.15.1.0.exe
+sha512: 88Iur4UzoTRrljeJZ+NAd2pk6WvhQGkqBEI70b1N7hF/FXEfTCgu7M5+Z8OU1OCQQKNfLmah3mFPIx1JWX96sA==
+releaseDate: '2026-10-23T21:24:40.836Z'
