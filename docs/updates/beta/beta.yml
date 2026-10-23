@@ -1,12 +1,12 @@
-version: 13.4.9
+version: 15.1.0
 files:
-  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.9/Martin.No.Filter.Fighters.Beta.Setup.13.4.9.exe
-    sha512: pEsRfGz8882BZDEPfZJ3FqWzgEBsE2DZMre0satvjJ/4d8ichmVXtlPaiBT9MCBlzIJProAfyHcXIgwKcThFwA==
-    size: 154766727
-path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/beta-test-13.4.9/Martin.No.Filter.Fighters.Beta.Setup.13.4.9.exe
-sha512: pEsRfGz8882BZDEPfZJ3FqWzgEBsE2DZMre0satvjJ/4d8ichmVXtlPaiBT9MCBlzIJProAfyHcXIgwKcThFwA==
-releaseDate: '2026-10-21T04:39:17.794Z'
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.1.0/Martin.No.Filter.Fighters.Setup.15.1.0.exe
+    sha512: 88Iur4UzoTRrljeJZ+NAd2pk6WvhQGkqBEI70b1N7hF/FXEfTCgu7M5+Z8OU1OCQQKNfLmah3mFPIx1JWX96sA==
+    size: 231899623
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.1.0/Martin.No.Filter.Fighters.Setup.15.1.0.exe
+sha512: 88Iur4UzoTRrljeJZ+NAd2pk6WvhQGkqBEI70b1N7hF/FXEfTCgu7M5+Z8OU1OCQQKNfLmah3mFPIx1JWX96sA==
+releaseDate: '2026-10-23T21:24:40.836Z'
 releaseNotes: |-
-  - QA-only 13.4.9 target for testing interrupted-download recovery from installed Beta 13.4.8.
-  - No changes to fighter balance, stages, music, artwork or save-data formats.
-  - Previous version remains playable when an update download is interrupted.
+  - Stable v15.1.0 is now offered to the beta channel for migration testing.
+  - Beta and stable have different Windows application identities. The stable installer may install alongside the beta application rather than replacing it.
+  - Back up saves and settings before upgrading. Keep the beta installation until the stable game opens and progress is verified.
