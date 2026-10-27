@@ -1,10 +1,10 @@
-version: 15.4.1
+version: 15.6.0
 files:
-  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.4.1/Martin.No.Filter.Fighters.Setup.15.4.1.exe
-    sha512: OcZ2xDtXoBU0p1FvJszDu7SwAwfzd6+duPIIK82B0+WVF6lW2M+DieTF66x4L/e3esEoi8I9uRZjXfEbtBMv2A==
-    size: 251794966
-path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.4.1/Martin.No.Filter.Fighters.Setup.15.4.1.exe
-sha512: OcZ2xDtXoBU0p1FvJszDu7SwAwfzd6+duPIIK82B0+WVF6lW2M+DieTF66x4L/e3esEoi8I9uRZjXfEbtBMv2A==
-releaseDate: '2026-10-25T01:11:06.707Z'
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.6.0/Martin.No.Filter.Fighters.Setup.15.6.0.exe
+    sha512: 91QEm71bSyn6hZBupESjcNqJ0t+k4hmHLyDQXEYapLChQrblZuIhotpaAmT/LzWntCH8b7Ss33ryxaoEyqhwug==
+    size: 271431979
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.6.0/Martin.No.Filter.Fighters.Setup.15.6.0.exe
+sha512: 91QEm71bSyn6hZBupESjcNqJ0t+k4hmHLyDQXEYapLChQrblZuIhotpaAmT/LzWntCH8b7Ss33ryxaoEyqhwug==
+releaseDate: '2026-10-27T15:53:06.492Z'
 releaseNotes: |-
-  v15.4.1: Game updates and improvements
+  v15.6.0: Game updates and improvements
