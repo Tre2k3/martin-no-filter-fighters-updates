@@ -1,10 +1,10 @@
-version: 15.7.1
+version: 15.8.2
 files:
-  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.7.1/Martin.No.Filter.Fighters.Setup.15.7.1.exe
-    sha512: 6xO21gUjo6AcCGp/aiQqmHe5vCUNsuhJQbBL8aN6oqyEhexCEQ/ZM5yIpQSZyF+WWseMGqQTMUgilBrJAJc5EA==
-    size: 298988371
-path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.7.1/Martin.No.Filter.Fighters.Setup.15.7.1.exe
-sha512: 6xO21gUjo6AcCGp/aiQqmHe5vCUNsuhJQbBL8aN6oqyEhexCEQ/ZM5yIpQSZyF+WWseMGqQTMUgilBrJAJc5EA==
-releaseDate: '2026-10-29T21:44:17.524Z'
+  - url: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.8.2/Martin.No.Filter.Fighters.Setup.15.8.2.exe
+    sha512: 5jKO7nO4Z6F9/hBrirtT18EUUCdHFAx28jju3GBMyRs8g+hhsdm0HcgKuoyCnvIYydM8y3YbA1thyDBdVui/ig==
+    size: 289865338
+path: https://github.com/Tre2k3/martin-no-filter-fighters-updates/releases/download/v15.8.2/Martin.No.Filter.Fighters.Setup.15.8.2.exe
+sha512: 5jKO7nO4Z6F9/hBrirtT18EUUCdHFAx28jju3GBMyRs8g+hhsdm0HcgKuoyCnvIYydM8y3YbA1thyDBdVui/ig==
+releaseDate: '2026-11-06T23:43:13.046Z'
 releaseNotes: |-
-  v15.7.1: Game updates and improvements
+  v15.8.2: Game updates and improvements
